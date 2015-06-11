@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Boutique venus</string>
+    <string name="action_settings">Settings</string>
+    <string name="Id_Ropa">Id Ropa</string>
+    <string name="Marca">Marca:</string>
+    <string name="Descripcion">Descripcion:</string>
+    <string name="Precio">Precio:</string>
+    <string name="Talla">Talla:</string>
+    <string name="Color">Color:</string>
+    <string name="alta">Alta</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="consulta">Consultar</string>
+    <string name="modificar">Modificar</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="title_activity_vista">vista</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="abrir">Registros</string>
+    <string name="title_activity_usuarios">Usuarios</string>
+
+</resources>
